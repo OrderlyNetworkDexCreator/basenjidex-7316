@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://twitter.com/basenjiofficial",
   "VITE_SEO_SITE_NAME": "BasenjiPerps",
   "VITE_SEO_SITE_DESCRIPTION": "Basenji on base perps dex",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/basenjidex-7316/",
+  "VITE_SEO_SITE_URL": "https://basenjiperps.com",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@BasenjiOfficial",
